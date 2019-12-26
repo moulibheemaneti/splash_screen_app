@@ -21,8 +21,9 @@ class _GradBgSplashScreenState extends State<GradBgSplashScreen>{
           color: Colors.white,
         ),
       ),
-
-
+      
+      // below line takes image from internet. You can type your URL.
+      // image: new Image.Network(""),
       image: new Image.asset("assets/flutter.png"),
       photoSize: 100.0,
       loaderColor: Colors.white,
