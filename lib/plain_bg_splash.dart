@@ -21,7 +21,9 @@ class _PlainBgSplashScreenState extends State<PlainBgSplashScreen>{
           //color: Colors.blue,
         ),
       ),
-
+      
+      // below line takes image from internet. You can type your URL.
+      // image: new Image.Network(""),
       image: new Image.asset("assets/flutter.png"),
       photoSize: 100.0,
       loaderColor: Colors.blue,
