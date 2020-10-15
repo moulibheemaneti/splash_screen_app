@@ -1,6 +1,7 @@
 # splash_screen_app
 
-A new Flutter application.
+A new Flutter example for better understanding of making splashscreens using the splashscreen plugin.
+Steps to achieve the basic splash screen is available on [my medium account](https://medium.com/@moulibheemaneti/splash-screen-using-flutter-5a7bbf09d2dc)
 
 ## Getting Started
 
